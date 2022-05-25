@@ -1,84 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Pages on Erio&#39;s blog</title>
-        <link>https://touwaerioh.github.io/page/</link>
-        <description>Recent content in Pages on Erio&#39;s blog</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Sat, 12 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://touwaerioh.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>About</title>
-        <link>https://touwaerioh.github.io/about/</link>
-        <pubDate>Sat, 12 Jun 2021 00:00:00 +0000</pubDate>
-        
-        <guid>https://touwaerioh.github.io/about/</guid>
-        <description>&lt;h1 id=&#34;basic-information&#34;&gt;Basic Information&lt;/h1&gt;
-&lt;p&gt;I&amp;rsquo;m learning cs(web security) at Wuhan University. Email: ZXJpb3ZhckAxNjMuY29t(BASE64)&lt;/p&gt;
-&lt;h1 id=&#34;skills&#34;&gt;Skills&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Language&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;C/C++&lt;/li&gt;
-&lt;li&gt;Python&lt;/li&gt;
-&lt;li&gt;Html&amp;amp;JavaScript&lt;/li&gt;
-&lt;li&gt;Assembly Language,like x86,8086&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Security Skills&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Software security skills, like stack overflow&lt;/li&gt;
-&lt;li&gt;Web security skills, like XSS,SQL injection&lt;/li&gt;
-&lt;li&gt;OS knowledge, like ubuntu, centos and Kali&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;AI&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Knows a little about recommendation system and knowledge-graph&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;hobbies&#34;&gt;Hobbies&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;Anime&lt;/li&gt;
-&lt;li&gt;Music&lt;/li&gt;
-&lt;li&gt;Football&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;links&#34;&gt;Links&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;Github: &lt;a class=&#34;link&#34; href=&#34;https://github.com/TouwaErioH&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/TouwaErioH&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Home Page: &lt;a class=&#34;link&#34; href=&#34;https://meowdancing.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://meowdancing.com/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        </item>
-        <item>
-        <title>Archives</title>
-        <link>https://touwaerioh.github.io/archives/</link>
-        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://touwaerioh.github.io/archives/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Search</title>
-        <link>https://touwaerioh.github.io/search/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://touwaerioh.github.io/search/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>tags</title>
-        <link>https://touwaerioh.github.io/tags/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://touwaerioh.github.io/tags/</guid>
-        <description></description>
-        </item>
-        
-    </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Erio's blog</title><link>https://touwaerioh.github.io/page/</link><description>Recent content in Pages on Erio's blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 12 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://touwaerioh.github.io/page/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://touwaerioh.github.io/about/</link><pubDate>Sat, 12 Jun 2021 00:00:00 +0000</pubDate><guid>https://touwaerioh.github.io/about/</guid><description>&lt;h1 id="basic-information">Basic Information&lt;/h1>
+&lt;p>I&amp;rsquo;m learning cs(web security) at Wuhan University. Email: ZXJpb3ZhckAxNjMuY29t(BASE64)&lt;/p>
+&lt;h1 id="skills">Skills&lt;/h1>
+&lt;ul>
+&lt;li>
+&lt;p>Language&lt;/p>
+&lt;ul>
+&lt;li>C/C++&lt;/li>
+&lt;li>Python&lt;/li>
+&lt;li>Html&amp;amp;JavaScript&lt;/li>
+&lt;li>Assembly Language,like x86,8086&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Security Skills&lt;/p>
+&lt;ul>
+&lt;li>Software security skills, like stack overflow&lt;/li>
+&lt;li>Web security skills, like XSS,SQL injection&lt;/li>
+&lt;li>OS knowledge, like ubuntu, centos and Kali&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>AI&lt;/p>
+&lt;ul>
+&lt;li>Knows a little about recommendation system and knowledge-graph&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h1 id="hobbies">Hobbies&lt;/h1>
+&lt;ul>
+&lt;li>Anime&lt;/li>
+&lt;li>Music&lt;/li>
+&lt;li>Football&lt;/li>
+&lt;/ul>
+&lt;h1 id="links">Links&lt;/h1>
+&lt;ul>
+&lt;li>Github: &lt;a href="https://github.com/TouwaErioH">https://github.com/TouwaErioH&lt;/a>&lt;/li>
+&lt;li>Home Page: &lt;a href="https://meowdancing.com/">https://meowdancing.com/&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Archives</title><link>https://touwaerioh.github.io/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>https://touwaerioh.github.io/archives/</guid><description/></item><item><title>Search</title><link>https://touwaerioh.github.io/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://touwaerioh.github.io/search/</guid><description/></item><item><title>tags</title><link>https://touwaerioh.github.io/tags/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://touwaerioh.github.io/tags/</guid><description/></item></channel></rss>
